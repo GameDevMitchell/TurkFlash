@@ -6,7 +6,7 @@ BACKGROUND_COLOR = "#B1DDC6"
 
 # creating the user interface
 app = Tk()
-app.title("Flashy")
+app.title("TurkFlash")
 app.config(padx=50, pady=50, bg=BACKGROUND_COLOR)
 
 # creating the word display canvas
