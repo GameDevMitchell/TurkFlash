@@ -61,7 +61,7 @@ def known():
 
 # creating the user interface
 app = Tk()
-app.title("Flashy")
+app.title("TurkFlash")
 # app.geometry("900x800")
 app.config(padx=50, pady=50, bg=BACKGROUND_COLOR)
 switch_timer = app.after(4000, english)
