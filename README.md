@@ -3,6 +3,8 @@
 Your ultimate Turkish-English flashcard app! Immerse yourself in a fun and interactive learning experience as you expand your vocabulary and boost your language skills.
 
 # Flashy - Flash Card App
+![demo](https://github.com/GameDevMitchell/TurkFlash/assets/146736445/93a792ac-3d22-4cbf-bcd8-328eac57a541)
+
 
 Flashy is a simple and interactive flash card app built using Python and Tkinter. It's designed to help you learn and practice Turkish words by displaying random Turkish words and their English translations.
 
