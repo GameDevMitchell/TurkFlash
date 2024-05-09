@@ -48,6 +48,7 @@ def english():
     )
 
 
+# removes what the user knows from the list of words
 def known():
     """removes what the user knows from the list of words"""
     if count < 21:
