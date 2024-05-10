@@ -1,6 +1,7 @@
 from tkinter import *
 from customtkinter import *
 
+# the background colour
 BACKGROUND_COLOR = "#B1DDC6"
 
 
