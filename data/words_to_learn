@@ -2,99 +2,96 @@
 0,bir,One
 1,ve,And
 2,olmak,to be
-3,bu,This 
-4,için,for  
-5,o,he
-6,ben,I
-7,demek,means
-8,çok,A lot
-9,yapmak,to do
-10,ne,What
-11,gibi,like
-12,daha,more
-13,almak,to take  
-14,var,there is
-15,kendi,own
-16,gelmek,to come
-17,ile,with
-18,vermek,to give
-19,ama,But
-20,sonra,later
-21,kadar,much
-22,yer,place
-23,en,-most
-24,insan,person 
-25,değil,not
-26,her,each
-27,istemek,to want
-28,yıl,year
-29,çıkmak,to leave
-30,görmek,to see
-31,gün,day
-32,biz,We
-33,gitmek,to go
-34,iş,work
-35,şey,thing
-36,ara,Search
-37,ki,that
-38,bilmek,to know
-39,el,hand
-40,zaman,time
-41,ya,or
-42,çocuk,child
-43,iki,two
-44,bakmak,to look 
-45,çalışmak,to work
-46,içinde,inside
-47,büyük,big
-48,yok,no
-49,başlamak,to start
-50,yol,path
-51,kalmak,to stay
-52,neden,From where
-53,siz,you
-54,konu,Subject
-55,yapılmak,be done
-56,iyi,Good
-57,kadın,Woman
-58,ev,house
-59,ise,whereas
-60,diye,saying
-61,bulunmak,have
-62,söylemek,to say
-63,göz,eyelash
-64,gerekmek,require
-65,dünya,World
-66,baş,head
-67,durum,situation
-68,yan,side
-69,geçmek,to go past
-70,sen,you
-71,onlar,them
-72,yeni,new
-73,önce,before
-74,başka,Another
-75,hal,status
-76,orta,middle
-77,su,This
-78,girmek,to enter
-79,yemek,food
-80,hiç,none
-81,bile,even    
-82,nasıl,How
-83,bütün,all
-84,karşı,opposite
-85,bulmak,to find
-86,böyle,like this
-87,yaşamak,to live
-88,düşünmek,to think
-89,aynı,same
-90,iç,drink
-91,ancak,however
-92,kişi,person
-93,bunlar,these
-94,veya,or 
-95,ilk,first
-96,göre,according to
-97,ön,front
-98,son,end
+3,için,for  
+4,o,he
+5,ben,I
+6,demek,means
+7,çok,A lot
+8,yapmak,to do
+9,ne,What
+10,gibi,like
+11,daha,more
+12,almak,to take  
+13,var,there is
+14,kendi,own
+15,gelmek,to come
+16,ile,with
+17,vermek,to give
+18,ama,But
+19,sonra,later
+20,kadar,much
+21,yer,place
+22,en,-most
+23,insan,person 
+24,değil,not
+25,her,each
+26,istemek,to want
+27,yıl,year
+28,çıkmak,to leave
+29,görmek,to see
+30,gün,day
+31,biz,We
+32,gitmek,to go
+33,iş,work
+34,şey,thing
+35,ara,Search
+36,ki,that
+37,el,hand
+38,zaman,time
+39,ya,or
+40,çocuk,child
+41,iki,two
+42,bakmak,to look 
+43,çalışmak,to work
+44,büyük,big
+45,yok,no
+46,başlamak,to start
+47,yol,path
+48,kalmak,to stay
+49,siz,you
+50,konu,Subject
+51,yapılmak,be done
+52,iyi,Good
+53,kadın,Woman
+54,ev,house
+55,ise,whereas
+56,diye,saying
+57,bulunmak,have
+58,söylemek,to say
+59,göz,eyelash
+60,gerekmek,require
+61,dünya,World
+62,baş,head
+63,durum,situation
+64,yan,side
+65,geçmek,to go past
+66,sen,you
+67,onlar,them
+68,yeni,new
+69,önce,before
+70,başka,Another
+71,hal,status
+72,orta,middle
+73,su,This
+74,girmek,to enter
+75,ülke,country
+76,yemek,food
+77,hiç,none
+78,bile,even    
+79,nasıl,How
+80,bütün,all
+81,karşı,opposite
+82,bulmak,to find
+83,böyle,like this
+84,yaşamak,to live
+85,düşünmek,to think
+86,aynı,same
+87,iç,drink
+88,ancak,however
+89,kişi,person
+90,bunlar,these
+91,veya,or 
+92,ilk,first
+93,göre,according to
+94,ön,front
+95,son,end
